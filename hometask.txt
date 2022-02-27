@@ -1,1 +1,14 @@
 Различия между ветками отсутствуют
+
+10 коммитов:
+
+1) init
+2) heat added
+3) README added 
+4) fix readme
+5) boots
+6) dots
+7) Merge branch 'buttons' into boots_buttons
+8) Merge branch 'hat'
+9) Merge branch 'boots_buttons'
+10) Добавлен файл hometask.txt
